@@ -92,10 +92,12 @@ function Buscador() {
         var songsData = await fetch('https://api.spotify.com/v1/search?q=' + searchInput + '&type=track', searchParameters)
             .then(response => response.json())
             .then(data => data.tracks.items);
+            console.log(response.json)
 
         var albumsData = await fetch('https://api.spotify.com/v1/search?q=' + searchInput + '&type=album', searchParameters)
             .then(response => response.json())
             .then(data => data.albums.items);
+            
 
         var playlistsData = await fetch('https://api.spotify.com/v1/search?q=' + searchInput + '&type=playlist', searchParameters)
             .then(response => response.json())

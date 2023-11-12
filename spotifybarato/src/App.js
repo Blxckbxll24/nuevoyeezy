@@ -7,6 +7,7 @@ import Dash from './pages/dashboard';
 import Inicio from './pages/inicio';
 import Buscador from './pages/buscador';
 import { FavoriteSongsProvider } from '../src/context/favoritos.jsx';
+import Player from './pages/reproductor.jsx';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path='/dash' element={<Dash />} />
           <Route path='/inicio' element={<Inicio />} />
           <Route path='/buscador' element={<Buscador />} />
+          <Route path='/player' element={<Player />} />
         </Routes>
       </FavoriteSongsProvider>
     </BrowserRouter>

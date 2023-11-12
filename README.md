@@ -1,2 +1,0 @@
-# spotifybarato
-# nuevoyeezy
