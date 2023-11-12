@@ -1,0 +1,92 @@
+.casa {
+    font-family: Arial, sans-serif;
+    
+    background-color: #151212;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #000000;
+    border-top-width: 10px;
+    border: 1px solid #790379;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.sociallogin button {
+    border-radius: 10px;
+    border: 1px solid #790379;
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #000000;
+    
+    color: #fff;
+  
+    cursor: pointer;
+}
+
+.ordivider {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.line {
+    flex: 1;
+    height: 1px;
+    background-color: #790379;
+}
+
+
+
+.phonelogin form {
+    text-align: left;
+    border-color: #790379;
+}
+
+.phonelogin input {
+    border-top-width: 10px;
+    width: 95%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #790379;
+    border-radius: 10px;
+}
+
+.phonelogin button {
+    width: 100%;
+    background-color: #790379;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.navbar {
+    background-color: black;
+    padding: 10px;
+    text-align: left;
+  }
+.navbar img{
+    text-align: center;
+    margin-bottom: 0 px;
+    height: 30px;
+    width: 30px;
+    
+}
+.Sign img{
+    width: 20px;
+}

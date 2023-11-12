@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Cabecilla{
+    background-color:#2b5ac0 ;
+    color:white;
+    padding: 15px;
+}
+.Idioma{
+    margin-left: 25px;
+}
+.Ramt{
+    background-color: black;
+    color: white;
+    
+}
+.Yess{
+    display: inline-flex;
+    padding: 5px;
+}
+.Logo{
+    border-radius: 200px;
+    width: 70px;
+    height: 70px;
+}
+.App{
+    margin-top: 25px;
+    margin-left: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.App1{
+    margin-left: 200px;
+}
+.Liss{
+    margin-left: 1100px;
+    list-style: none;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.Mediante{
+    padding-bottom: 20px;
+}
+.nest{
+    color:white;
+    display: inline-flex;
+    margin-left: 450px;
+}
+.Plan{
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+.Cambiar{
+    margin-top: 10px;
+    margin-left: 350px;
+    text-decoration: underline;
+    color: #e0caca;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.cajamedio{
+    background-color: azure;
+    width: 35%;
+    margin-left: 450px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+.Par1{
+    background-color: rgb(209, 32, 32);
+    margin-top: 10px;
+    border-radius: 10px 10px 0px 0px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding: 20px;    
+    
+}
+.PILLS{
+    font-weight: lighter;
+    font-size: 14px;
+    display: flex;
+    
+}
+.Par2{
+
+    color: black;
+    padding-left: 2%;   
+}
+.Par3{
+    font-weight: lighter;
+}
+.pay{
+    padding-left: 40%;
+    width: 100px;
+    padding-top: 4%;
+}
+.arr{
+    background-color: white;
+    padding-top: 1%;
+    color: black;
+}
+.arr h3{
+    background-color: white;
+    color: black;
+    padding-left: 39%;
+}
+ .suscribcion .perfil .circulo{
+    background-color: #710563;
+    border-radius: 40%;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

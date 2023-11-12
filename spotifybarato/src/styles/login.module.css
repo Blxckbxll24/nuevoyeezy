@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.logo img{
+    text-align: center;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 50px;
+    
+}
+
+h2 {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.facebookbutton {
+    background-color: #1877f2;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.googlebutton {
+    background-color: #ffffff;
+    border:  #000000;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+.nsm7Bb-HzV7m-LgbsSe-BPrWId{
+    border-radius: 10px;
+}
+
+.registrobutton {
+    background-color: #A54BCF;
+    width: 70%;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 16px;
+    text-align: left;
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+}
+
+label input {
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+#iniciosesionlink {
+    text-align: center; 
+    
+}
+
+a {
+    text-decoration: none;
+    color: #4285f4;
+    
+}
